@@ -165,7 +165,7 @@ $nationalities = [
             ['id' => '170', 'name' => ["ar" => "النمسا", "en" => "AUSTRIA"], 'code' => 'AT', 'status' => 'active', 'order' => '2'],
             ['id' => '172', 'name' => ["ar" => "باكستان", "en" => "PAKISTAN"], 'code' => 'PK', 'status' => 'active', 'order' => '2'],
             ['id' => '173', 'name' => ["ar" => "بالاو", "en" => "PALAU"], 'code' => 'PW', 'status' => 'active', 'order' => '2'],
-            ['id' => '174', 'name' => ["ar" => "فلسطين", "en" => "PALESTINIAN TERRITORY, OCCUPIED"], 'code' => 'PS', 'status' => 'active', 'order' => '2'],
+            ['id' => '174', 'name' => ["ar" => "فلسطين", "en" => "PALESTINE"], 'code' => 'PS', 'status' => 'active', 'order' => '2'],
             ['id' => '175', 'name' => ["ar" => "بنما", "en" => "PANAMA"], 'code' => 'PA', 'status' => 'active', 'order' => '2'],
             ['id' => '176', 'name' => ["ar" => "بابوا غينيا الجديدة", "en" => "PAPUA NEW GUINEA"], 'code' => 'PG', 'status' => 'active', 'order' => '2'],
             ['id' => '177', 'name' => ["ar" => "باراجواي", "en" => "PARAGUAY"], 'code' => 'PY', 'status' => 'active', 'order' => '2'],
